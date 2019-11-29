@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523465816 source:c:\users\maruf\desktop\study\c++ project\doublelinklist\main.cpp
+	<iostream>
+	"src\doublelinklist.cpp"
+
+1523467283 source:c:\users\maruf\desktop\study\c++ project\doublelinklist\src\doublelinklist.cpp
+	"doublelinklist.h"
+	<iostream>
+	"cctype"
+
+1523467073 c:\users\maruf\desktop\study\c++ project\doublelinklist\include\doublelinklist.h
+
+1523467073 c:\users\maruf\desktop\study\c++ project\doublelinklist\src\doublelinklist.cpp
+	"doublelinklist.h"
+	<iostream>
+	"cctype"
+
